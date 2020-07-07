@@ -1,0 +1,121 @@
+#EXTM3U
+
+##########################################################################################################################
+## filmeslink ##
+##########################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3g9LLUC" group-title="Filmes" ,vingadores ultimato dub
+https://s2.gripe-ocore-nada-acotece.xyz/hls/GzZEFtJpdehhBjnV-QcKLQ/1593580614/filmes/VingadoresUltimato/dub/video.json/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/08/24/21/29/2341995.jpg" group-title="Filmes" ,bohemianrhapsody-dub
+https://cwabe.azureedge.net/movies/bohemianrhapsody-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/02/19/15/31/1517190.jpg" group-title="Filmes" ,ACincoPassosDeVoce-dub
+https://s2.gripe-ocore-nada-acotece.xyz/hls/GzZEFtJpdehhBjnV-QcKLQ/1593580614/filmes/ACincoPassosDeVoce/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg" group-title="Filmes" ,OReiLeao2019-dub
+https://s4.gripe-ocore-nada-acotece.xyz/hls/GzZEFtJpdehhBjnV-QcKLQ/1593580614/filmes/OReiLeao2019/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714hCOWzn0L._AC_SX569_.jpg" group-title="Filmes" ,narniaviagem--dub
+https://cwabe.azureedge.net/movies/narniaviagem-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/4d/2019/08/16/os-parcas-2-veja-whindersson-tom-cavalcante-e-tirullipa-no-poster-da-sequencia-1565959348719_v2_1306x1920.jpg" group-title="Filmes" ,Os Parcas
+https://s1.gripe-ocore-nada-acotece.xyz/hls/GzZEFtJpdehhBjnV-QcKLQ/1593580614/filmes/OsParcas/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e8/Ninja_assassin_poster_promocional.jpg" group-title="Filmes" ,Ninja Assassino
+https://s2.gripe-ocore-nada-acotece.xyz/hls/GzZEFtJpdehhBjnV-QcKLQ/1593580614/filmes/NinjaAssassino/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvefamosos.uai.com.br/wp-content/uploads/sites/2/2019/08/descendentes-3-001-950x534.jpg" group-title="Filmes" ,Descendentes 3
+https://s2.gripe-ocore-nada-acotece.xyz/hls/GzZEFtJpdehhBjnV-QcKLQ/1593580614/filmes/Descendentes3/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/af/36/66af366aebcf894209035912a119d98a.jpg" group-title="Filmes" ,Next Gen
+https://s4.gripe-ocore-nada-acotece.xyz/hls/GzZEFtJpdehhBjnV-QcKLQ/1593580614/filmes/NextGen/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaxBgWuH2Px0v4q3kxzNxRQWA7bOyoVVJ_9g&usqp=CAU" group-title="Filmes" ,miss sushine
+https://f002.backblazeb2.com/file/G8A4cq3M7oIkdFnV3Gdetji4YV1Sp1CjV2jGo9OCHhleLNn24y/Im2vJXuuye0gfwCF1AV44uDGYVNeL8dipHWcrziB4fyba9qM8ldVFACH72CiB6x7bfFPcEyE9LkHnk9KD01BbnCRzjOhpqf5Am5Aj3mpU6wdgmExOQRqNN1kjcxD8OjMbzXdNG83SRy6cHJfPSoOi4t0Fx5pWHjWQqmkwpD0qOAMS7sClHx3LyUWpLVQfu1eDUM50vAWRXDJDMROMKo4cnz5MsX2N4BODQC3z8TZbNN32mCXRsYLawx96V0RSOX/Im2vJXuuye0gfwCF1AV44uDGYVNeL8dipHWcrziB4fyba9qM8ldVFACH72CiB6x7bfFPcEyE9LkHnk9KD01BbnCRzjOhpqf5Am5Aj3mpU6wdgmExOQRqNN1kjcxD8OjMbzXdNG83SRy6cHJfPSoOi4t0Fx5pWHjWQqmkwpD0qOAMS7sClHx3LyUWpLVQfu1eDUM50vAWRXDJDMROMKo4cnz5MsX2N4BODQC3z8TZbNN32mCXRsYLawx96V0RSOX
+
+#EXTINF:-1 tvg-logo="" group-title="terror" ,nós
+https://s2.gripe-ocore-nada-acotece.xyz/hls/5vGiqnyncxkJ2zMMMXKYUA/1593667015/filmes/Nos/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ESLSTXMj9lo/maxresdefault.jpg" group-title="terror" ,depois do apocalipse
+https://cwb.azureedge.net/movies/depoisdoapocalipse-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/omFzKgeHFsA/maxresdefault.jpg" group-title="terror" ,pressagio
+https://s2.gripe-ocore-nada-acotece.xyz/hls/5vGiqnyncxkJ2zMMMXKYUA/1593667015/filmes/Pressagio2020/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/oxM4lAckrsaoXccrvZijVptjVlQ=/210x312/smart/media/movies/covers/2020/06/freaks-2018-02.jpg" group-title="terror" ,aberrações
+https://s2.gripe-ocore-nada-acotece.xyz/hls/5vGiqnyncxkJ2zMMMXKYUA/1593667015/filmes/Aberracoes2018/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.arrobanerd.com.br/wp-content/uploads/2019/02/keanu-reeves-co%CC%81pias-de-volta-a-vida-trailer-legendado.jpg" group-title="terror" ,Cópias De Volta à Vida 
+https://s2.gripe-ocore-nada-acotece.xyz/hls/5vGiqnyncxkJ2zMMMXKYUA/1593667015/filmes/CopiasDeVoltaAVida/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/fdcf5000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="terror" ,Halloween3 A NoiteDasBruxas
+https://s2.gripe-ocore-nada-acotece.xyz/hls/5vGiqnyncxkJ2zMMMXKYUA/1593667015/filmes/Halloween3ANoiteDasBruxas/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cafecomfilme.com.br/media/k2/items/cache/2137b84013b585b2802745600558a9ec_M.jpg?t=20200625_215916" group-title="terror" ,Viveiro 
+https://s2.gripe-ocore-nada-acotece.xyz/hls/5vGiqnyncxkJ2zMMMXKYUA/1593667015/filmes/Viveiro2019/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/lugarnenhum.net/wp-content/uploads/2019/08/prey.jpg?ssl=1" group-title="terror" ,prey
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-_dRwbSMHBjY/XBAVGq_hihI/AAAAAAABzfM/QtSaVPuBxBMCzK3jpLdNmULbKzb9E5RnACLcBGAs/s400/one%2Bsheet%2B2.JPG" group-title="terror" ,escape room
+https://s2.gripe-ocore-nada-acotece.xyz/hls/5vGiqnyncxkJ2zMMMXKYUA/1593667015/filmes/EscapeRoom/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/07/20/22/32/1260113.jpg" group-title="terror" ,O Doutrinador
+https://pixeldrain.com/u/QZNTgntw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E01
+https://bit.ly/3g7Z3B3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E02
+https://bit.ly/3eKliNn
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E03
+https://bit.ly/3g7IUvC
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E04
+https://bit.ly/31sE0Fx
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E05
+https://bit.ly/2AjpbKg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E06
+https://bit.ly/389QNhc
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E07
+https://bit.ly/2CPnJ2Z
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E08
+https://bit.ly/3gdcgZF
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E09
+https://bit.ly/2ZlrF35
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E10
+https://bit.ly/3gfEfYJ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQamGlTq0W3q4mnqz86V2cG0cM0Sv1pRElT4Q&usqp=CAU" group-title="eu e a patroa e as crianças" ,T01E11
+https://bit.ly/2YJoz9X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
